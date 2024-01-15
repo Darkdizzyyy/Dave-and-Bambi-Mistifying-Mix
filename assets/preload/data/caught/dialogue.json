@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HEY! WHAT ARE YOU DOING BACK HERE!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Bap???!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU CHEATED AGAIN. DIDN'T YOU!!!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Bap skdop bep boop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I'M GONNA GET YOU OUT OF THIS PLACE FOR GOOD THIS TIME!!!!"
+		}
+	]
+}

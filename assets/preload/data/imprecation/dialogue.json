@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Bep skdop beep dap bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who are you? and why are you here?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Beep skdop bap dop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..........."
+		}
+	]
+}

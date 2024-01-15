@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow. That was fun!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep skdop bup bap beep."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Another battle!!??? Why!!!????"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Bap?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I mean.. Sure...."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This better not happen again......."
+		}
+	]
+}

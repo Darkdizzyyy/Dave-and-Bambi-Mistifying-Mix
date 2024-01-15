@@ -1,0 +1,9 @@
+internal,blitz,dave-annoyed,good
+internal,tessattack,dave-angey,good
+internal,imprecation,recurser,good
+internal,jinxed,recurser,good
+internal,caught,caughtbambi,good
+external,a-new-day,dave,good
+external,bambi-speak,bambi,bad
+external,good-ending,bf-old,good
+external,bad-ending,bf-old,bad

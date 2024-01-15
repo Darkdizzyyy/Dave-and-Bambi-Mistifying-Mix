@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Caught_Bambi.png">
+<SubTexture name="Caught_Bambi down0000" x="0" y="1488" width="474" height="387" frameX="-356" frameY="-231" frameWidth="1000" frameHeight="750" />
+<SubTexture name="Caught_Bambi down0001" x="1921" y="0" width="399" height="443" frameX="-375" frameY="-172" frameWidth="1000" frameHeight="750" />
+<SubTexture name="Caught_Bambi down0002" x="942" y="1006" width="348" height="471" frameX="-388" frameY="-140" frameWidth="1000" frameHeight="750" />
+<SubTexture name="Caught_Bambi idle0000" x="1921" y="443" width="374" height="432" frameX="-380" frameY="-195" frameWidth="1000" frameHeight="750" />
+<SubTexture name="Caught_Bambi idle0001" x="313" y="1006" width="316" height="481" frameX="-381" frameY="-137" frameWidth="1000" frameHeight="750" />
+<SubTexture name="Caught_Bambi idle0002" x="958" y="0" width="313" height="500" frameX="-361" frameY="-117" frameWidth="1000" frameHeight="750" />
+<SubTexture name="Caught_Bambi idle0003" x="646" y="0" width="312" height="501" frameX="-347" frameY="-112" frameWidth="1000" frameHeight="750" />
+<SubTexture name="Caught_Bambi left0000" x="399" y="507" width="313" height="495" frameX="-281" frameY="-114" frameWidth="1000" frameHeight="750" />
+<SubTexture name="Caught_Bambi left0001" x="712" y="507" width="311" height="493" frameX="-324" frameY="-117" frameWidth="1000" frameHeight="750" />
+<SubTexture name="Caught_Bambi left0002" x="1271" y="0" width="312" height="492" frameX="-349" frameY="-117" frameWidth="1000" frameHeight="750" />
+<SubTexture name="Caught_Bambi right0000" x="1583" y="0" width="338" height="454" frameX="-486" frameY="-127" frameWidth="1000" frameHeight="750" />
+<SubTexture name="Caught_Bambi right0001" x="629" y="1006" width="313" height="479" frameX="-437" frameY="-125" frameWidth="1000" frameHeight="750" />
+<SubTexture name="Caught_Bambi right0002" x="0" y="1006" width="313" height="482" frameX="-414" frameY="-127" frameWidth="1000" frameHeight="750" />
+<SubTexture name="Caught_Bambi up0000" x="0" y="507" width="399" height="499" frameX="-425" frameY="-5" frameWidth="1000" frameHeight="750" />
+<SubTexture name="Caught_Bambi up0001" x="311" y="0" width="335" height="504" frameX="-393" frameY="-68" frameWidth="1000" frameHeight="750" />
+<SubTexture name="Caught_Bambi up0002" x="0" y="0" width="311" height="507" frameX="-389" frameY="-75" frameWidth="1000" frameHeight="750" />
+</TextureAtlas>
